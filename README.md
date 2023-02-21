@@ -8,7 +8,6 @@ Class Human yang memiliki atribut NIK; nama; dan jenis kelamin menjadi orang tua
 ### Screenshot Program
 
 * CPP
-<img width="874" alt="Screenshot_20230219_114147" src="https://user-images.githubusercontent.com/99643681/219926653-efad7c9a-5ce8-4508-b5b3-a55cd871029c.png">
 
 * Java
 
